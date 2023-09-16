@@ -5,3 +5,8 @@
 /**        export-ignore
 /addons    !export-ignore
 /addons/** !export-ignore
+/addons/kaykit_city_builder_bits/** export-ignore
+/addons/kaykit_city_builder_bits/Assets !export-ignore
+/addons/kaykit_city_builder_bits/Assets/** !export-ignore
+/addons/kaykit_city_builder_bits/Assets/fbx export-ignore
+/addons/kaykit_city_builder_bits/Assets/fbx(unity) export-ignore
